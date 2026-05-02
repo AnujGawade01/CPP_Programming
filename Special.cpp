@@ -1,3 +1,4 @@
+// Here we use the special functions constructor and destructor
 #include<iostream>
 using namespace std;
 
