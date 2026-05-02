@@ -1,3 +1,4 @@
+// Here we create a class that contain both characteristic(data) and behavior(function) and then print it size in main functiion to demonstrate that a function does not get memory allocated in stack
 #include<iostream>
 using namespace std;
 
