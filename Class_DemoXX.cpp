@@ -1,3 +1,4 @@
+// Here we create a class that contain Characteristics and function and then print the variable i & call the function inside main
 #include<iostream>
 using namespace std;
 
