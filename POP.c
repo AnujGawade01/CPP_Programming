@@ -1,3 +1,4 @@
+// Here we have written two functions in in procedural code & other file wh have written in OOP
 #include<stdio.h>
 
 int Addition(int No1, int No2)
