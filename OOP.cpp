@@ -1,3 +1,4 @@
+// Here we have written two functions in in Object Oriented Programming principle & other file ww have written in POP (Procedural)
 #include<iostream>
 using namespace std;
 
