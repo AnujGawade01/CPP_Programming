@@ -1,3 +1,4 @@
+// Here we make a call of static variable k from main function and outside the main function
 #include<iostream>
 using namespace std;
 
