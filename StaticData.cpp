@@ -1,3 +1,4 @@
+// Here we create a static variable k in a class Demo and try to output the size of Demo object
 #include<iostream>
 using namespace std;
 
