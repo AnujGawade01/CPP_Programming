@@ -1,3 +1,4 @@
+// Here we create a non static and static method and call them
 #include<iostream>
 using namespace std;
 
