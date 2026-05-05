@@ -1,3 +1,4 @@
+// Here we create a class and write data & method in it
 #include<iostream>
 using namespace std;
 
