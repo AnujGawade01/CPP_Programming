@@ -1,3 +1,4 @@
+// Here we write function doing similar work by changing function prototype i.e increasing number of parameters
 #include<iostream>
 using namespace std;
 
