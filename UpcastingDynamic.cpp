@@ -1,3 +1,4 @@
+// Here we perform upcsting dynamically by using new operator
 #include<iostream>
 using namespace std;
 
