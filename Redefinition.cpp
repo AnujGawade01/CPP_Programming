@@ -1,3 +1,4 @@
+// Here we redefine the base class methods in derived class
 #include<iostream>
 using namespace std;
 
