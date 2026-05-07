@@ -1,4 +1,5 @@
-#include<iostream>
+// Here we create pure virtual method Sub in Base class and then give its definition in Derived class
+#include<iostream> 
 using namespace std;
 
 class Base
