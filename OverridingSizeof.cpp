@@ -1,3 +1,4 @@
+// Here we check the size of Base & Derived class both have same method as derived class redefines base class method
 #include<iostream>
 using namespace std;
 
