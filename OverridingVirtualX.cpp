@@ -1,3 +1,6 @@
+// Here we add the memory address for the methods as example 
+// Here we override Base class normal and virtual methods in Derived class and then call using Base pointer
+// We also try to call a virtual method declared & Defined in Derived Class using Base pointer which will give error as no such similar method exist in Base class
 #include<iostream>
 using namespace std;
 
