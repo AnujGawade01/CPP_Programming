@@ -1,3 +1,4 @@
+// Here we perform create & open file operation 
 #include<stdio.h>
 #include<fcntl.h>
     
