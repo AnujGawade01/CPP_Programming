@@ -1,3 +1,4 @@
+// Here we have displayed single level inheritance
 #include<iostream>
 using namespace std;
 
