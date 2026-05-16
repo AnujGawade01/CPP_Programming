@@ -1,3 +1,4 @@
+// Here we have displayed single level inheritance with defining the derived class body
 #include<iostream>
 using namespace std;
 
