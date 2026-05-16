@@ -1,4 +1,4 @@
-// Here we have displayed single level inheritance with keping base class variables as private which will give error when called from main
+// Here we have displayed single level inheritance with keeping base class variables as private which will give error when called from main
 #include<iostream>
 using namespace std;
 
